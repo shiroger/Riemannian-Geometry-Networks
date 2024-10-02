@@ -1,6 +1,6 @@
 '''
 #####################################################################################################################
-Discription: filter+overlap
+Discription: Preprocessing of Physionet on subject-specific data(calculating SCM and Riemannian mean)
 #######################################################################################################################
 '''
 import scipy.io as scio

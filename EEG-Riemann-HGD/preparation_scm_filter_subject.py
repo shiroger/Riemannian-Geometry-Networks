@@ -1,6 +1,6 @@
 '''
 #####################################################################################################################
-Discription: filter+overlap
+Discription: Preprocessing of High Gamma Dataset(calculating SCM and Riemannian mean)
 #######################################################################################################################
 '''
 import scipy.io as scio

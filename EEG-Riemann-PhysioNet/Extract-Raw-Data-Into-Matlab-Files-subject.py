@@ -2,21 +2,9 @@
 # -*- coding: utf-8 -*-
 
 '''
-
-Please see this before you run this file!!!!!!
-
-NOTICE:
-    Be advised that this “Extract-Raw-Data-Into-Matlab-Files.py” Python File
-    should only be executed under the Python 2 Environment.
-    I highly recommend to execute the file under the Python 2.7 Environment
-    because I have passed the test.
-    However, if you are using Python 3 Environment to run this file,
-    I'm afraid there will be an error and the generated labels will be wrong.
-
-    If you have any question, please be sure to let me know.
-    My email is shuyuej@ieee.org.
-    Thanks a lot.
-
+#####################################################################################################################
+Discription: Extract raw data into .mat file
+#######################################################################################################################
 '''
 import numpy as np
 import io
